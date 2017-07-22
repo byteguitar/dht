@@ -16,3 +16,7 @@ https://github.com/shiyanhui/dht
 	getPeersType     = "get_peers"
 	announcePeerType = "announce_peer"
 )  
+
+
+# peermanager
+	 
